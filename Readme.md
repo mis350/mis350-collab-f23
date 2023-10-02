@@ -1,3 +1,3 @@
 # Hello MIS350
 
-hello my name is ali hussain
+hello my name is ali hussein
